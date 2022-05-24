@@ -1,3 +1,3 @@
 # mat347
 
-Some notes taken in mat347 (Groups, Rings and Fields) at the University of Toronto
+Some notes taken in Mathematics studies at the University of Toronto
